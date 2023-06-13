@@ -2,7 +2,7 @@
 
 Landing page of the National Kyiv Museum. Various sections have been implemented, including a form for email distribution and a section with a gallery.
 
-# [Demo](https://ihorchaikovskyi.github.io/Museum-Landing-page/)
+# [Demo](https://ihorchaikovskyi.github.io/Museum-landing/)
 
 # Technologies used
 
